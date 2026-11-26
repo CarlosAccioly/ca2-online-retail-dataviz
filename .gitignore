@@ -1,0 +1,12 @@
+# Data files are NOT uploaded (assessment rule)
+data/
+*.xlsx
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
